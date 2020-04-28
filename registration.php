@@ -3,6 +3,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'PykettK_ExpandedOrderSummary',
+    'Element119_ExpandedCheckoutOrderSummary',
     __DIR__
 );
