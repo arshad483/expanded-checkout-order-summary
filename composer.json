@@ -1,18 +1,18 @@
 {
     "name": "element119/expanded-checkout-order-summary",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "magento2-module",
     "license": [
         "proprietary"
     ],
     "authors":[
         {
-            "name": "Developer",
-            "email": "hello@element119.io"
+            "name": "Kiel Pykett",
+            "email": "pykettk@gmail.com"
         }
     ],
     "require": {
-        "php": "~7.0|~7.1|~7.2|~7.3"
+        "php": ">7.0"
     },
     "autoload": {
         "files": [
